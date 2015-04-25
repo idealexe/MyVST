@@ -3,6 +3,7 @@
 
 #include "stdafx.h"
 #include "MyVST.h"
+#include "vstgui_win32.cpp"
 
 #define MAX_LOADSTRING 100
 
